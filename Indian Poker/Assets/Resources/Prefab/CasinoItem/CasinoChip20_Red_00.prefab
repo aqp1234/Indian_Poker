@@ -1,0 +1,1483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6704058567114982939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 963591502992492668}
+  - component: {fileID: 4527729820301366252}
+  - component: {fileID: -5538452780702625880}
+  m_Layer: 0
+  m_Name: CasinoChip20_Red_00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &963591502992492668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6704058567114982939}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 460013563690249888}
+  - {fileID: 4608042047828790116}
+  - {fileID: 3464176917896968280}
+  - {fileID: 9204593466750091356}
+  - {fileID: 4490639798504115960}
+  - {fileID: 5801985238373802586}
+  - {fileID: 7850402750305917412}
+  - {fileID: 7188598280428364101}
+  - {fileID: 4207600612986744126}
+  - {fileID: 5795834526316691987}
+  - {fileID: 117062093132614867}
+  - {fileID: 308051420177395002}
+  - {fileID: 5772978639196275041}
+  - {fileID: 3801678784252166064}
+  - {fileID: 3344755148583278058}
+  - {fileID: 7168182479857241477}
+  - {fileID: 4248637570805840564}
+  - {fileID: 3290935709183695963}
+  - {fileID: 3540134351757840380}
+  - {fileID: 1202363855883880669}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &4527729820301366252
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6704058567114982939}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &-5538452780702625880
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6704058567114982939}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.038, y: 0.065, z: 0.038}
+  m_Center: {x: 0, y: 0.03, z: 0}
+--- !u!1001 &195344481741134205
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0589
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.105285175
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9944421
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 12.087001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &1202363855883880669 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 195344481741134205}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1406886775257587059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.031
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.41525275
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.90970606
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 49.070004
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &117062093132614867 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 1406886775257587059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1476033530871381760
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5357934
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8443492
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -64.795006
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (0)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &460013563690249888 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 1476033530871381760}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1612231944635120794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0341
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &308051420177395002 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 1612231944635120794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2452946423300368888
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0062
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.14502934
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9894274
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -16.678001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &3464176917896968280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 2452946423300368888}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2537974260632526428
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0558
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.25909862
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9658509
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 30.033
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &3540134351757840380 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 2537974260632526428}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2800080071673785872
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0403
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.047218375
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99888456
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 5.413
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &3801678784252166064 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 2800080071673785872}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2917700605209443486
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0248
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.027196433
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99963015
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -3.117
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &4207600612986744126 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 2917700605209443486}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2949741307838049044
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0496
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.123308346
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9923684
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.166
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &4248637570805840564 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 2949741307838049044}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3190890846650687320
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0124
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.14014153
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99013156
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 16.112001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &4490639798504115960 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 3190890846650687320}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3308644449984125636
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0031
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12984729
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99153405
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.922001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &4608042047828790116 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 3308644449984125636}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4355915824122168394
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0434
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.1800499
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9836575
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -20.745
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &3344755148583278058 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 4355915824122168394}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4589845166834306555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0527
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.11004837
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9939262
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -12.636001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &3290935709183695963 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 4589845166834306555}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4756955931253625025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0372
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.17127062
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.985224
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 19.723001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &5772978639196275041 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 4756955931253625025}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4789392937437107123
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.14737225
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9890811
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 16.949001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &5795834526316691987 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 4789392937437107123}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4800113305751237626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0155
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &5801985238373802586 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 4800113305751237626}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7900703213362106876
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0093
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.14014153
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99013156
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 16.112001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &9204593466750091356 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 7900703213362106876}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8170612431864257573
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0465
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.038385678
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.999263
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 4.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &7168182479857241477 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 8170612431864257573}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8204062393007059173
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0217
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.16808054
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98577327
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 19.352001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &7188598280428364101 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 8204062393007059173}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9145576084518127684
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 963591502992492668}
+    m_Modifications:
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0186
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.15344912
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98815656
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -17.654001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Name
+      value: CasinoChip_Red (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2612930645372953523, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4358966153943308143, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 42eb888fb9d1b4d4bb9a7ecff9ff912d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+--- !u!4 &7850402750305917412 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1304257507995750816, guid: 24828e358252f3d4fa612008bf2e77cc, type: 3}
+  m_PrefabInstance: {fileID: 9145576084518127684}
+  m_PrefabAsset: {fileID: 0}
